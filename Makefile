@@ -1,0 +1,3 @@
+.html: clean
+	markdoc build
+

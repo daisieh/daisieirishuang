@@ -1,12 +1,12 @@
-Daisie Iris Huang
-daisieh@gmail.com
-604-771-6513
+Daisie Iris Huang  
+daisieh@gmail.com  
+604-771-6513  
 http://www.daisieirishuang.com
 
 ## Education
 
 Ph.D., Botany, Rancho Santa Ana Botanic Garden at Claremont Graduate
-University (2010).
+University (2010).  
 Concentrations: Population genetics, plant molecular biology,
 phylogenetics, plant systematics.
 
@@ -221,6 +221,6 @@ Natural History Survey, Champaign, IL.
 
 ## Professional Affiliations
 
-American Society of Plant Taxonomists
-Botanical Society of America
+American Society of Plant Taxonomists  
+Botanical Society of America  
 Society for the Study of Evolution

@@ -1,13 +1,15 @@
-WEB_HOST ?= alchemy.grimoire.ca
-WEB_ROOT ?= /var/www/grimoire.ca
-
 BROWSER ?= open
 
-.html: clean
-	markdoc build
+concat: clean 
+	cd md; cat header.md education.md academic_experience.md employment.md awards.md publications.md  presentations.md service.md affiliations.md > ../wiki/DHuang_CV.md; cd ..
 
-.PHONY: html
-html: .html
+html: concat
+	markdoc build
+	
+print: concat
+	pandoc 
+
+all: html print
 
 .PHONY: clean
 clean:

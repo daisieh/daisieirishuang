@@ -1,8 +1,11 @@
-Daisie Iris Huang  
-daisieh@gmail.com  
-604-771-6513  
-http://www.daisieirishuang.com
+# Daisie Iris Huang  
+daisieh@gmail.com &bull; http://www.daisieirishuang.com &bull; [orcid.org/0000-0002-1497-1284](http://orcid.org/0000-0002-1497-1284)
 
+[Curriculum Vitae](http://www.mutantdaisies.com/DHuang_CV.pdf)
+ &bull; [Google Scholar](http://scholar.google.com/citations?hl=en&amp;user=9RChfOwAAAAJ)
+ &bull; [LinkedIn](http://www.linkedin.com/profile/view?id=6895145)
+ &bull; [Github](https://github.com/daisieh)
+ &bull; [ImpactStory](https://impactstory.org/DaisieIrisHuang)
 ## Education
 
 Ph.D., Botany, Rancho Santa Ana Botanic Garden at Claremont Graduate
@@ -16,9 +19,10 @@ B.S., Plant Biology, University of California at Berkeley (2000).
 
 ## Academic Experience
 
-Postdoctoral Research Fellow, University of British Columbia, 6/2012 to
-present. Working on the POPCAN project funded by Genome Canada to
-explore genomic and phenotypic variability in poplar. Under the
+<div id=highlight><div id=title>Postdoctoral Research Fellow, Cronk Lab, University of British Columbia, 6/2012 to
+present.</div></div>
+Working on the POPCAN project funded by Genome Canada to
+explore genomic and phenotypic variability in poplar. Under the
 supervision of Dr. Quentin Cronk, I am investigating phylogenetic
 relationships in the genus _Populus_ and its relatives in the Salicaceae
 by using whole plastome and chondrome data, with eventual scaling to
@@ -27,14 +31,15 @@ developing software pipelines for efficient targeted assembly of
 next-generation sequencing libraries and involved in several
 collaborative open-source software projects.
 
-Postdoctoral Researcher, University of California at Santa Barbara.
-10/2010 to 5/2012. Worked with Dr. Scott Hodges in conducting population
+<div id=highlight><div id=title>Postdoctoral Researcher, Hodges Lab, University of California at Santa Barbara.
+10/2010 to 5/2012.</div></div>
+Worked with Dr. Scott Hodges in conducting population
 genetics and genomic research in the genus _Aquilegia_ (Ranunculaceae).
 Used next-generation sequencing data, investigating functional
 differences in the anthocyanin biosynthetic pathway in order to
 understand how flower color affects species differentiation and
 adaptation. Implemented the VIGS transformation protocol developed at
-Dr. Elena Kramer’s lab for knockdown expression of genes in _Aquilegia._
+Dr. Elena Kramer's lab for knockdown expression of genes in _Aquilegia._
 Created mRNA-seq libraries for Illumina next-generation sequencing.
 Genotyped individuals from a large pollen-competition study involving
 over 1000 genetic individuals and analyzed the resulting dataset.
@@ -42,36 +47,37 @@ Developed a method for extracting genomic DNA from inviable _Aquilegia_
 seeds, allowing genetic data to be obtained from materials previously
 thought to be unusable.
 
-Teaching Assistant, Rancho Santa Ana Botanic Garden, Claremont, CA,
-1/2008 to 5/2008. Assisted Dr. Elizabeth A. Friar in teaching Advanced
+<div id=title>Teaching Assistant, Rancho Santa Ana Botanic Garden, Claremont, CA,
+1/2008 to 5/2008.</div>
+Assisted Dr. Elizabeth A. Friar in teaching Advanced
 Population Genetics. Assigned and graded weekly problem sets. Assisted
 Dr. Friar in designing and grading midterm and final exams. Assisted Dr.
 Friar in preparing lectures. Conducted weekly discussion sessions and
 office hours. Maintained a web site for the class.
 
-Molecular Systematics Research Assistant, Rancho Santa Ana Botanic
-Garden, Claremont, CA, 1/2006 to 8/2008. Work was performed for Dr.
-Jennifer Cruse-Sanders and Dr. Elizabeth A. Friar's research (NSF Award
-Number 0519546). Developed silica-based method of extracting genomic DNA
-from polysaccharide-rich plant tissue. Extracted DNA from preserved
+<div id=title>Molecular Systematics Research Assistant, Rancho Santa Ana Botanic
+Garden, Claremont, CA, 1/2006 to 8/2008.</div>
+Performed molecular analyses for Dr. Jennifer Cruse-Sanders and Dr. Elizabeth A. Friar's research (NSF Award Number 0519546). Developed silica-based method of extracting genomic DNA from polysaccharide-rich plant tissue. Extracted DNA from preserved
 samples of _Stenocereus stellatus_. Amplified and scored microsatellite
 markers for _S. stellatus_ samples. Amplified and sequenced data from
 chloroplast markers in _S. stellatus._
 
-Herbarium Research Assistant, Rancho Santa Ana Botanic Garden,
-Claremont, CA, 8/2005 to 12/2005. Assisted with reidentifications of
+<div id=title>Herbarium Research Assistant, Rancho Santa Ana Botanic Garden,
+Claremont, CA, 8/2005 to 12/2005.</div>
+Assisted with reidentifications of
 RSA-POM specimens for Dr. John Kartesz's Biota of North America.
 Mounted, filed, and databased specimens. Wrote scripts to update 4000+
 recalcitrant entries in the herbarium's main Filemaker Pro database.
-
 ## Employment History
 
-Software Developer, Dryad Digital Repository, Durham, NC, 5/2014 to
-present. Implementing and debugging back end software for the Dryad
+<div id=highlight><div id=title>Software Developer, Dryad Digital Repository, Durham, NC, 5/2014 to
+present.</div></div>
+Implementing and debugging back end software for the Dryad
 digital data repository.
 
-Associate Science Director, California Institute for Biodiversity,
-Oakland, CA, 9/2004 to 8/2005. Researched and wrote for _Coast Alive!,_
+<div id=highlight><div id=title>Associate Science Director, California Institute for Biodiversity,
+Oakland, CA, 9/2004 to 8/2005.</div></div>
+Researched and wrote for _Coast Alive!,_
 an educational multimedia project focusing on the Southern California
 coast, targeted at 7th through 10th grades. Wrote and developed a large
 multimedia presentation on fire ecology, basic Mendelian genetics, and
@@ -79,13 +85,13 @@ plant identification, based on a theoretical fire in the coastal sage
 scrub habitat of southern California. Edited Teacher Resource Guide for
 scientific accuracy.
 
-Software Engineer, Apple Computer, Inc., Cupertino, CA, 6/2000 to
-8/2004. Maintained KEXT Management code inside OS X, fixing flaws and
+<div id=highlight><div id=title>Software Engineer, Apple Computer, Inc., Cupertino, CA, 6/2000 to
+8/2004.</div></div>
+Maintained KEXT Management code inside OS X, fixing flaws and
 adding features. Designed and implemented KEXT integrity verification
 system. Designed architecture for KEXT management features in Mac OS X
 10.4. Designed and implemented thermal architecture for new portable
 hardware (U.S. patent numbers 7,451,332 and 8,237,386).
-
 ## Awards and Honors
 
 National Science Foundation microMORPH RCN Grant, Spring 2011.
@@ -110,7 +116,7 @@ Science), UC Berkeley chapter.
 
 ## Publications
 
-Allen, JM, **DI Huang,** QC Cronk, KP Johnson. (2015) aTRAM – automated
+Allen, JM, **DI Huang,** QC Cronk, KP Johnson (2015) aTRAM &ndash; automated
 target restricted assembly method: a fast method for assembling loci
 across divergent taxa from next-generation sequencing data. _BMC
 Bioinformatics,_ **16:** 98. [doi:10.1186/s12859-015-0515-2](http://dx.doi.org/10.1186/s12859-015-0515-2)
@@ -124,7 +130,7 @@ balsamifera_ and _P. trichocarpa_ (Salicaceae). _New Phytologist,_
 **Huang, DI** and H Lapp (2013) Software Engineering as Instrumentation for
 the Long Tail of Scientific Software. Contributed paper for the Workshop
 on Sustainable Software for Science: Practice and Experiences at SC13,
-Denver, CO.
+Denver, CO. [doi:10.6084/m9.figshare.791560](http://dx.doi.org/10.6084/m9.figshare.791560)
 
 **Huang, DI** (2013) A conservation plan for _Lupinus ludovicianus_ (San
 Luis Obispo County Lupine, Fabaceae). _Rancho Santa Ana Botanic Garden

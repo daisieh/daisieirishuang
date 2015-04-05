@@ -1,1 +1,3 @@
+use-default-templates: false
+
 html-dir: html
